@@ -1,3 +1,6 @@
---> Apache Spark is an open source cluster computing system that aims to make data analytics fast — 
+Apache Spark is an open source cluster computing system that aims to make data analytics fast — 
 both fast to run and fast to write.
+
+Spark offers a general execution model that can optimize arbitrary operator graphs, 
+and supports in-memory computing, which lets it query data faster than disk-based engines like Hadoop.
 
