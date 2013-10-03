@@ -4,3 +4,10 @@ both fast to run and fast to write.
 Spark offers a general execution model that can optimize arbitrary operator graphs, 
 and supports in-memory computing, which lets it query data faster than disk-based engines like Hadoop.
 
+It has client APIs in Python, Scala, and Java. Moreover you can use interactively using Python, Scala.
+
+Spark was initially developed for two applications where placing data in memory helps: iterative algorithms,which are common in 
+1.  machine learning
+2.  interactive data mining
+In both cases, Spark can run up to 100x faster than Hadoop MapReduce. 
+However, you can use Spark for general data processing too.
